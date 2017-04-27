@@ -9,3 +9,5 @@ git push -u origin master
 
 
 change branch, and update 
+
+git clone
